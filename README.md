@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+![screen_shots](photo_5949639722534027083_y.jpg)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
